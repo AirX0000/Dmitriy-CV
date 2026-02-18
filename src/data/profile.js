@@ -117,6 +117,14 @@ const PROFILE = {
                 department: "Production Preparation Workshop, Section 5",
                 description: "First role in aviation. Electrical system inspections, wiring repairs, and component testing at the Aircraft Maintenance Base.",
                 badge: "Career Start"
+            },
+            {
+                year: "2001 — 2004",
+                position: "Intern / Apprentice",
+                company: "TAPOiCh — Tashkent Aviation Production Association named after V.P. Chkalov",
+                department: "Tashkent Air Construction Professional College",
+                description: "Completed full-time vocational training and hands-on internship at TAPOiCh — one of the largest aircraft manufacturing plants in Central Asia. Gained practical experience in mechanical assembly, CNC machine operation, and aviation production processes.",
+                badge: "Internship"
             }
         ],
         skills: [
@@ -134,9 +142,9 @@ const PROFILE = {
             {
                 icon: "🎓",
                 degree: "Diploma in Mechanical Processing Equipment",
-                school: "Tashkent Air Construction Professional College",
+                school: "Tashkent Air Construction Professional College (at TAPOiCh)",
                 year: "2001 — 2004",
-                details: "Diploma K № 054629. Qualified as Adjuster of Instrumentation and Programmed Numerical Control Machines. Profession: Master of Assembly Working."
+                details: "Diploma K № 054629. Qualified as Adjuster of Instrumentation and Programmed Numerical Control Machines. Profession: Master of Assembly Working. Internship completed at TAPOiCh."
             },
             {
                 icon: "⭐",
@@ -278,6 +286,14 @@ const PROFILE = {
                 department: "Цех подготовки производства, участок 5",
                 description: "Первая должность в авиации. Осмотр электросистем, ремонт проводки, тестирование компонентов.",
                 badge: "Начало карьеры"
+            },
+            {
+                year: "2001 — 2004",
+                position: "Практикант / Ученик",
+                company: "ТАПОиЧ — Ташкентское авиационное производственное объединение им. В.П. Чкалова",
+                department: "Ташкентский авиастроительный профессиональный колледж",
+                description: "Прошёл полный курс профессионального обучения и производственную практику на ТАПОиЧ — одном из крупнейших авиастроительных заводов Центральной Азии. Получил практический опыт в механической сборке, работе на станках с ЧПУ и авиационном производстве.",
+                badge: "Практика"
             }
         ],
         skills: [
@@ -295,9 +311,9 @@ const PROFILE = {
             {
                 icon: "🎓",
                 degree: "Диплом — Механическая обработка оборудования",
-                school: "Ташкентский авиастроительный профессиональный колледж",
+                school: "Ташкентский авиастроительный профессиональный колледж (при ТАПОиЧ)",
                 year: "2001 — 2004",
-                details: "Диплом K № 054629. Квалификация: наладчик КИП и станков с ЧПУ. Профессия: мастер сборочных работ."
+                details: "Диплом K № 054629. Квалификация: наладчик КИП и станков с ЧПУ. Профессия: мастер сборочных работ. Практика пройдена на ТАПОиЧ."
             },
             {
                 icon: "⭐",
@@ -439,6 +455,14 @@ const PROFILE = {
                 department: "Ishlab chiqarishni tayyorlash sexi, 5-uchastka",
                 description: "Aviatsiyada birinchi ish. Elektr tizimlarni tekshirish, simlarni ta'mirlash, komponentlarni sinovdan o'tkazish.",
                 badge: "Karera boshlanishi"
+            },
+            {
+                year: "2001 — 2004",
+                position: "Amaliyotchi / Shogird",
+                company: "TAPOiCh — Toshkent aviatsiya ishlab chiqarish birlashmasi V.P. Chkalov nomidagi",
+                department: "Toshkent aviaqurilish kasb-hunar kolleji",
+                description: "TAPOiCh — Markaziy Osiyodagi eng yirik aviatsiya ishlab chiqarish zavodlaridan birida to'liq kasbiy ta'lim va ishlab chiqarish amaliyotini o'tadi. Mexanik yig'ish, CNC dastgohlarida ishlash va aviatsiya ishlab chiqarish jarayonlarida amaliy tajriba oldi.",
+                badge: "Amaliyot"
             }
         ],
         skills: [
@@ -456,9 +480,9 @@ const PROFILE = {
             {
                 icon: "🎓",
                 degree: "Diplom — Mexanik ishlov berish uskunalari",
-                school: "Toshkent aviaqurilish kasb-hunar kolleji",
+                school: "Toshkent aviaqurilish kasb-hunar kolleji (TAPOiCh'da)",
                 year: "2001 — 2004",
-                details: "Diplom K № 054629. Malaka: KIA va RBD dastgohlar sozlovchisi. Kasb: yig'ish ishlari ustasi."
+                details: "Diplom K № 054629. Malaka: KIA va RBD dastgohlar sozlovchisi. Kasb: yig'ish ishlari ustasi. Amaliyot TAPOiCh'da o'tilgan."
             },
             {
                 icon: "⭐",
